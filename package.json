@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "download:sources": "node downloadSources.js",
+    "convert:shapefiles": "node convertShapeFiles.js",
     "build": "rollup -c",
     "dev": "rollup -c -w",
     "start": "sirv public --no-clear"
@@ -21,6 +22,7 @@
   "dependencies": {
     "axios": "^0.21.4",
     "mapbox-gl": "^2.4.1",
+    "shpjs": "^4.0.2",
     "sirv-cli": "^1.0.0",
     "vue-mapbox": "^0.4.1"
   }
