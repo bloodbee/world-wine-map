@@ -1,14 +1,13 @@
 # World Wine Map
 
-You can find the live website here [worldwinemap.netlify.app](worldwinemap.netlify.app)
+You can find the live website here [https://worldwinemap.netlify.app](https://worldwinemap.netlify.app)
 
+Any inquiries? Any datasets to share? Contact me directly: mathieu@bloodbee.space
 
-
-
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
 
+*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ## Get started
 
